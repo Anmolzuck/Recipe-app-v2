@@ -1,3 +1,3 @@
-# forkify Project
+# forkify Project🧡
 
-Recipe application with custom recipe uploads.
+This is second version of the recipe-searching web app.
